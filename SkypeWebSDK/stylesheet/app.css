@@ -1,0 +1,10 @@
+/* 
+ * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ */
+
+#conversationWindow{
+    width: 800px;
+    height: 800px;/*need height property for showing chat log in Conversation Controll*/
+    margin: 0 auto;
+}
